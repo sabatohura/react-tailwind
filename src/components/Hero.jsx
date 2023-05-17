@@ -14,7 +14,9 @@ function Hero() {
                 </p>
             </div>
             <p className='md:text-2xl text-xl font-bold text-gray-500 p-4'>Monitor you data Analytics to increase revenue for BTB, BTC, & SASS platforms</p>
+            <div className='my-5'>
             <Button text="Get Started" color='bg-GreenColor' hoverColor='hover:bg-GreenAccent' textColor='text-blackColor' />
+            </div>
         </div>
     </div>
   )
